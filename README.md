@@ -18,10 +18,11 @@ My name is Bojan (pronounced as _Boyan_).
 - I am interested in DevOps, building and automating processes, Systems Architecture, Software Engineering in general. Oh, and very much in AI!
 - ⚡ Fun fact: I play violoncello but am also a big fan of progressive house (which, together with coffee, helped me to write countless lines of code 😄). 
  
-My current (DevOps) stack:
+My DevOps stack:
 - Terraform, Ansible, Kubernetes, Helm
 - AWS, GCP
 - Python, Bash, Golang
+- GitHub Actions
 
 What I used in past (as a Software Engineer):
 - C, C++, C#, TypeScript
