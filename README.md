@@ -19,7 +19,7 @@ My name is Bojan (pronounced as _Boyan_).
 - ⚡ Fun fact: I play violoncello but am also a big fan of progressive house (which, together with coffee, helped me to write countless lines of code 😄). 
  
 My DevOps stack:
-- Terraform, Ansible, Kubernetes, Helm
+- Terraform, Ansible, Kubernetes, Helm, Elasticsearch, Kibana
 - AWS, GCP
 - Python, Bash, Golang
 - GitHub Actions
