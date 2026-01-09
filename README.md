@@ -12,7 +12,7 @@
 
 My name is Bojan (pronounced as _Boyan_).
 
-- 🔭 I’m currently working on several personal DevOps projects. 
+- 🔭 I’m currently working as DevOps Engineer at [GEEIQ](https://www.geeiq.com). 
 - 🌱 I’m currently learning for AWS, GCP and Kubernetes certifications.
 - Please visit my [blog](https://www.bojankomazec.com). I like to write about stuff I learn.
 - I am interested in DevOps, building and automating processes, Systems Architecture, Software Engineering in general. Oh, and very much in AI!
